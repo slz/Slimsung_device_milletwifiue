@@ -1,0 +1,11 @@
+# SM-T53XXX/T33XXX-MB74
+#
+persist.security.ams.enforcing=0
+ro.adb.secure=0
+ro.secure=0
+ro.allow.mock.location=1
+ro.debuggable=1
+persist.sys.usb.config=mtp,adb
+persist.sys.root_access=1
+ro.product.cpu.abi=armeabi-v7a
+ro.product.cpu.abi2=armeabi
