@@ -1,3 +1,7 @@
-Copyright 2013 - The CyanogenMod Project
+First thanks starlightknight !
 
-Device configuration for Samsung Tab 10.1 SM-T530 MATISSEWIFI
+okay this is the first round
+having issues with keymaster and audio
+hopefully get that sorted soon.
+
+m
